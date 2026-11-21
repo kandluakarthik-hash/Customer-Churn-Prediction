@@ -69,3 +69,29 @@ P P Savani University
 
 [GitHub Profile](https://github.com/kandluakarthik-hash)  
 [LinkedIn Profile](https://www.linkedin.com/in/kandula-karthik-b6b65b427/)
+
+## 📸 Project Screenshots
+
+### 1. Dataset Preview
+![Dataset Preview](dataset-preview.png)
+
+### 2. Customer Churn Distribution
+![Customer Churn Distribution](churn-distribution.png)
+
+### 3. Customer Churn by Contract Type
+![Churn by Contract Type](churn-by-contract-type.png)
+
+### 4. Customer Churn by Tenure
+![Churn by Tenure](churn-by-tenure.png)
+
+### 5. Customer Churn by Monthly Charges
+![Churn by Monthly Charges](churn-by-monthly-charges.png)
+
+### 6. Model Accuracy Comparison
+![Model Accuracy Comparison](model-accuracy-comparison.png)
+
+### 7. Random Forest Confusion Matrix
+![Confusion Matrix](confusion-matrix.png)
+
+### 8. Feature Importance
+![Feature Importance](feature-importance.png)
