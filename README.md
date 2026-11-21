@@ -76,22 +76,22 @@ P P Savani University
 ![Dataset Preview](dataset-preview.png)
 
 ### 2. Customer Churn Distribution
-![Customer Churn Distribution](churn-distribution.png)
+![Customer Churn Distribution](Churn%20Distribution.jpg)
 
 ### 3. Customer Churn by Contract Type
-![Churn by Contract Type](churn-by-contract-type.png)
+![Churn by Contract Type](Customer%20Churn%20by%20Contract%20Type.jpg)
 
 ### 4. Customer Churn by Tenure
-![Churn by Tenure](churn-by-tenure.png)
+![Churn by Tenure](Customer%20Churn%20by%20Tenure.jpg)
 
 ### 5. Customer Churn by Monthly Charges
-![Churn by Monthly Charges](churn-by-monthly-charges.png)
+![Churn by Monthly Charges](Customer%20Churn%20by%20Monthly%20Charges.jpg)
 
 ### 6. Model Accuracy Comparison
-![Model Accuracy Comparison](model-accuracy-comparison.png)
+![Model Accuracy Comparison](Machine%20Learning%20Model%20Accuracy%20Comparison.jpg)
 
 ### 7. Random Forest Confusion Matrix
-![Confusion Matrix](confusion-matrix.png)
+![Confusion Matrix](Confusion%20Matrix.jpg)
 
 ### 8. Feature Importance
-![Feature Importance](feature-importance.png)
+![Feature Importance](Feature%20Importance.jpg)
